@@ -1,0 +1,50 @@
+apiVersion: v1
+entries:
+  kpm-basic-xapp:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2025-04-17T18:41:38.011123522Z"
+    description: Standard xApp Helm Chart
+    digest: a1d1902dff3391e10541e487c872e94cea5597d138e7cebd40125f6a37c2342a
+    name: kpm-basic-xapp
+    urls:
+    - charts/kpm-basic-xapp-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2025-04-17T19:44:06.27204485Z"
+    description: Standard xApp Helm Chart
+    digest: 99c41168e035bdc6d8d2526fac2d2f841c2823949d52f7304f710c757c5022d4
+    name: kpm-basic-xapp
+    urls:
+    - charts/kpm-basic-xapp-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2025-04-17T19:40:01.373598721Z"
+    description: Standard xApp Helm Chart
+    digest: 50c4bbcbc8b674f3bef54888a8adbbfbc2dd06b5ff8b18e10b42b6de4d05b4bc
+    name: kpm-basic-xapp
+    urls:
+    - charts/kpm-basic-xapp-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2025-04-17T19:21:50.232990771Z"
+    description: Standard xApp Helm Chart
+    digest: 0f5801de22acf1d234c557c6b85c9a32c12b3b7b2df205429a54a0a2491a727b
+    name: kpm-basic-xapp
+    urls:
+    - charts/kpm-basic-xapp-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2025-04-17T18:44:29.591550829Z"
+    description: Standard xApp Helm Chart
+    digest: a2fd9188113a74a46298d117bff60d846311246aae1d059397353cd13649d579
+    name: kpm-basic-xapp
+    urls:
+    - charts/kpm-basic-xapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-04-17T19:44:06Z"
+serverInfo: {}
